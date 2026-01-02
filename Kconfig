@@ -1,0 +1,3 @@
+mainmenu "OTS OTA Application"
+
+source "Kconfig.zephyr"
